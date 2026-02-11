@@ -1,16 +1,17 @@
 # Hi, I'm 0xsmk
 
-I'm a cybersecurity enthusiast with a strong interest in **penetration testing** and **Red Team operations**.  
-Currently focusing on **Initial Access techniques**, CTF challenges, and developing tools that automate common pentesting tasks.  
+I'm a cybersecurity enthusiast focused on Security Engineering and Application Security Research.
 
-My main areas of interest include:  
-- Red Team methodologies and attack simulation  
-- Exploit development and vulnerability research  
-- Network and web application security  
-- Capture the Flag competitions (picoCTF, HackTheBox, TryHackMe)  
+Currently diving deep into secure development practices, vulnerability research, and building security tools that help developers write safer code. I enjoy understanding how vulnerabilities work at the code level and how to fix them.
 
-I work mainly with **Python** for tooling and automation, and **C++** for low-level programming and reverse engineering.  
-My environment of choice is **macOS/Linux**, where I build and test security projects.  
+My main areas of interest include:
+
+Security Development Lifecycle and DevSecOps practices
+Web application security (OWASP Top 10, API security)
+Vulnerability research and exploit development
+Building automation tools for security testing
+CTF challenges (HackTheBox, Duckerz, PortSwigger labs)
+ 
 
 ---
 
@@ -24,5 +25,4 @@ My environment of choice is **macOS/Linux**, where I build and test security pro
 
 ## Contacts
 
-- GitHub: [0xsmk](https://github.com/0xsmk)
 - Tg : [shumakkkk](https://t.me/shumakkkk)
