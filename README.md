@@ -6,11 +6,11 @@ Currently diving deep into secure development practices, vulnerability research,
 
 My main areas of interest include:
 
-Security Development Lifecycle and DevSecOps practices
-Web application security (OWASP Top 10, API security)
-Vulnerability research and exploit development
-Building automation tools for security testing
-CTF challenges (HackTheBox, Duckerz, PortSwigger labs)
+- Security Development Lifecycle and DevSecOps practices
+- Web application security (OWASP Top 10, API security)
+- Vulnerability research and exploit development
+- Building automation tools for security testing
+- CTF challenges (HackTheBox, Duckerz, PortSwigger labs)
  
 
 ---
