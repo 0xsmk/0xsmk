@@ -1,4 +1,4 @@
-# Hi, I'm 0xsmk
+# Hi, I'm smk
 
 I'm a cybersecurity enthusiast focused on Security Engineering and Application Security Research.
 
@@ -7,7 +7,7 @@ Currently diving deep into secure development practices, vulnerability research,
 My main areas of interest include:
 
 - Security Development Lifecycle and DevSecOps practices
-- Web application security (OWASP Top 10, API security)
+- Web application security
 - Vulnerability research and exploit development
 - Building automation tools for security testing
 - CTF challenges
@@ -26,3 +26,4 @@ My main areas of interest include:
 ## Contacts
 
 - Tg : [shumakkkk](https://t.me/shumakkkk)
+- Linkedin : [Mikhail Shumakov](www.linkedin.com/in/mikhail-shumakov-9096aa378)
